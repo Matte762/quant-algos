@@ -3,6 +3,7 @@
 
 SWEQ_1 : contains explanations and basic ideas of algorithms for interviews
 SWEQ_2 : contains well-known algorithms to perform standard operations
+SWEQ_3 : contains well-known algorithms to work with "exotic" data structures 
 
 
 0.2:
@@ -10,7 +11,7 @@ SWEQ_2 : contains well-known algorithms to perform standard operations
 Fixes: 
     Complete review of SWEQ_1, added the greedy section and completed the DP section with a medium difficutly problem
     Complete review of SWEQ_2, added Kadane algorithm. Improved the "Sorting" algorithms section
-    Added SWEQ_3 with Binary Trees algorithms; the next steps are going to be mainly in adding algos to this file
+    completed SWEQ_3 with Binary Trees algorithms; the next steps are going to be mainly in adding algos to this file
 
 
 SWEQ_1 : contains explanations and basic ideas of algorithms for interviews

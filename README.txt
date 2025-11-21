@@ -5,3 +5,4 @@ First upload: 21/11/2025
 
 SWEQ_1 : contains explanations and basic ideas of algorithms for interviews
 SWEQ_2 : contains well-known algorithms to perform standard operations
+SWEQ_3 : contains well-known algorithms to work with "exotic" data structures 
